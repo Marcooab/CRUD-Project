@@ -4,7 +4,7 @@ Project simulating an online store system where users can Create, Update, and De
 
 #Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,sass,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,vite)](https://skillicons.dev)
 
 #Backend
 
